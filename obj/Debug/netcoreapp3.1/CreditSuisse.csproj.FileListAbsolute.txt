@@ -1,0 +1,13 @@
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\CreditSuisse.exe
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\CreditSuisse.deps.json
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\CreditSuisse.runtimeconfig.json
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\CreditSuisse.runtimeconfig.dev.json
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\CreditSuisse.dll
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\CreditSuisse.pdb
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.csprojAssemblyReference.cache
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.AssemblyInfoInputs.cache
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.AssemblyInfo.cs
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.csproj.CoreCompileInputs.cache
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.dll
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.pdb
+E:\WorkThalys\CreditSuisse\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.genruntimeconfig.cache
